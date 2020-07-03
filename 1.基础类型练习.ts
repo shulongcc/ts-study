@@ -96,3 +96,8 @@ interface readOnly {
   readonly id: number,
   name: string,
 }
+
+interface hah {
+  readonly id: number
+  name: 'hah '
+}
